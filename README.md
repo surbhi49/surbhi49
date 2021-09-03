@@ -1,10 +1,15 @@
 
-  # Hi 👋 , I’m @surbhi49
-## A passionate web Developer from India
-*- 👀 I’m interested in Create new ideas,design website.*
-*- 🌱 I’m currently learning McA & Web development & problem solving .*
-*- 💞️ I’m looking to collaborate on ..*
-*- 📫 How to reach me sahusubi70@gmail.com.*
+# Hi 👋 , I’m @surbhi49
+## A passionate web Developer from India 
+- 👀 I’m interested in- 
+*- Create  new ideas.*
+*-  design website.*
+- 🌱 I’m currently learning -
+*- McA & Web development & problem solving .*
+- 💞️ I’m looking to collaborate on
+*-  web project*
+- 👨‍💻 All of my projects are available at https://github.com/@surbhi49
+- 📫 How to reach me sahusubi70@gmail.com.
 
 <!---
 surbhi49/surbhi49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
