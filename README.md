@@ -1,7 +1,7 @@
 
   # Hi 👋 , I’m @surbhi49
 ## A passionate web Developer from India
-- 👀 I’m interested in Create new ideas,design website.
+*- 👀 I’m interested in Create new ideas,design website.*
 - 🌱 I’m currently learning McA & Web development & problem solving .
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me sahusubi70@gmail.com.
