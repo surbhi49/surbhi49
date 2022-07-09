@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on
 *-  web project*
 - 👨‍💻 All of my projects are available at https://github.com/@surbhi49
-- 📫 How to reach me sahusubi70@gmail.com.
+- 📫 How to reach me surbhisahu8085@gmail.com.
 
 <!---
 surbhi49/surbhi49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
