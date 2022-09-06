@@ -1,11 +1,11 @@
 
 # Hi 👋 , I’m @surbhi49
-## A passionate web Developer from India 
+## A passionate Front End Developer from India 
 - 👀 I’m interested in- 
 *- Create  new ideas.*
 *-  design website.*
-- 🌱 I’m currently learning -
-*- McA & Web development & problem solving .*
+*-Responsive webpages-*
+- 🌱 I’m currently learning -*
 - 💞️ I’m looking to collaborate on
 *-  web project*
 - 👨‍💻 All of my projects are available at https://github.com/@surbhi49
